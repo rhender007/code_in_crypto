@@ -112,3 +112,8 @@ data={"answer":answer}
 data
 r = s.post(url = "http://docker.hackthebox.eu:30586/flag", data=data)
 r.text
+# last time
+data={"answer":"YES_I_CAN!"}
+data
+r = s.post(url = "http://docker.hackthebox.eu:30586/flag", data=data)
+print(r.text)
