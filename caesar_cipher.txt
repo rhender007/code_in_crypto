@@ -1,4 +1,4 @@
-Ceasar Cipher with LRF_V_PNA!
+Caesar Cipher with LRF_V_PNA!
 
 LRF_V_PNA!
 MSG_W_QOB!
